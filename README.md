@@ -74,7 +74,7 @@ end
 
 - Repairs are checked on the server: distance to the car, mechanic zone, roadside uses left, and the repair kit.
 - The damage logic only runs while you're driving, and drops to a 100 ms tick unless power loss, brake hold or flip prevention needs every frame.
-- It never touches handling data, so other cars of the same model aren't affected.
+- It never changes handling data, it only works with engine, body and tank health.
 
 ## Support
 
