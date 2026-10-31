@@ -7,6 +7,7 @@ description 'Realistic engine failure, limp mode and repairs, synced for everyon
 version '1.0.0'
 author 'IamZach'
 discord 'https://discord.gg/agn'
+repository 'https://github.com/1amZach/vehicledamage'
 
 shared_scripts {
     '@ox_lib/init.lua',
